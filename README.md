@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithms
+# Linear Regression
 Basic Projects on Machine Learning Algorithm 
 
 
